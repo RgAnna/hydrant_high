@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fire Hydrant (High Poly)
 
 ![Project Preview](https://github.com/RgAnna/hydrant_high/blob/main/Render/2.png)
@@ -69,3 +70,7 @@ __Preview on Sketchfab:__ [https://skfb.ly/pzrzX](https://skfb.ly/pzrzX)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-rogova-487090370/)  
 [![ArtStation](https://img.shields.io/badge/-ArtStation-13AFF0?style=flat&logo=artstation&logoColor=white)](https://www.artstation.com/rganna)  
 [![Sketchfab](https://img.shields.io/badge/-Sketchfab-000000?style=flat&logo=sketchfab&logoColor=white)](https://sketchfab.com/RgAnna)
+=======
+# hydrant_high
+#3dmodel #highpoly #render #blender3d 
+>>>>>>> 21e052152ba9665f14bc0dc0a6174d1a5a843b0f
