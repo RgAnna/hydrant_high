@@ -1,7 +1,7 @@
 
 # Fire Hydrant (High Poly)
 
-![Project Preview](https://github.com/RgAnna/hydrant_high/blob/main/Render/2video_hydrant.gif)
+![Project Preview](https://github.com/RgAnna/hydrant_high/blob/main/Render/video_hydrant.gif)
 
 __Preview on Sketchfab:__ [https://skfb.ly/pzrzX](https://skfb.ly/pzrzX)  
 
