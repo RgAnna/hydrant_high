@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Fire Hydrant (High Poly)
 
 ![Project Preview](https://github.com/RgAnna/hydrant_high/blob/main/Render/2.png)
