@@ -1,7 +1,7 @@
 
 # Fire Hydrant (High Poly)
 
-![Project Preview](https://github.com/RgAnna/hydrant_high/blob/main/Render/2.png)
+![Project Preview](https://github.com/RgAnna/hydrant_high/blob/main/Render/2video_hydrant.png)
 
 __Preview on Sketchfab:__ [https://skfb.ly/pzrzX](https://skfb.ly/pzrzX)  
 
@@ -38,7 +38,7 @@ ___
 
 # Пожарный Гидрант (High Poly)
 
-![Project Preview](https://github.com/RgAnna/hydrant_high/blob/main/Render/2.png)
+![Project Preview](https://github.com/RgAnna/hydrant_high/blob/main/Render/video_hydrant.png)
 
 __Preview on Sketchfab:__ [https://skfb.ly/pzrzX](https://skfb.ly/pzrzX)  
 
